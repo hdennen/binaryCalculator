@@ -1,0 +1,30 @@
+#res{
+    background-color:lightgray;
+    width:81%;
+    height:48px;
+    font-size:20px;
+    border-style:solid;
+}
+#btns{
+    width:90%;
+}
+.btn{
+    width:22%;
+    height:36px;
+    font-size:18px;
+    float:left;
+    text-align:center;
+    margin:3px;
+}
+.binaries{
+    background-color:lightgreen;
+    color:brown;
+}
+.clearsol{
+    background-color:darkgreen;
+    color:white;
+}
+.operators{
+    background-color:black;
+    color:red;
+}
